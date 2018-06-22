@@ -1,8 +1,0 @@
-my new git file
-this is my change
-
-
-
-merge this too
-This is another change.
-I want to Merge this
